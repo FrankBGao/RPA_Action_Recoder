@@ -1,0 +1,1840 @@
+[
+	{
+		"Position": "446|146",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:12:50.923",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "839|874",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:12:51.628",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "502|1061",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:12:53.236",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human",
+		"Event Info": "|OneNote|Launched",
+		"Timestamp": "2018-09-26 15:12:53.236",
+		"Event Type": "Application"
+	},
+	{
+		"Position": "3227|228",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:12:55.676",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "2732|534",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:12:56.140",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "2468|661",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:12:56.684",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "2451|678",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:12:56.709",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "2450|679",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:12:56.716",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "2450|679",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:12:56.732",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "2450|679",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:12:56.740",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "2450|679",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:12:56.755",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "2363|799",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:12:57.147",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "2363|799",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:12:57.171",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "2364|800",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:12:57.188",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "2364|800",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:12:57.203",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "2364|800",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:12:57.227",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "2364|800",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:12:57.252",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "2364|800",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:12:57.308",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "2364|800",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:12:57.604",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "2364|800",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:12:57.619",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "2364|800",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:12:57.627",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "2364|800",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:12:57.643",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "2364|800",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:12:57.658",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "2364|800",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:12:57.675",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "2364|800",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:12:57.691",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "2364|800",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:12:57.723",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "2364|800",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:12:57.988",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "2364|800",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:12:58.4",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "2364|800",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:12:58.19",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "2364|800",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:12:58.36",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "2364|800",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:12:58.51",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "2364|800",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:12:58.75",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "2019|600",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:12:58.667",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "2037|574",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:12:59.188",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "2007|548",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:12:59.724",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "2614|469",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:13:03.99",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "2614|469",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:13:03.132",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "2614|469",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:13:03.163",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "2614|469",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:13:03.940",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "2614|469",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:13:03.963",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "2614|469",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:13:03.987",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "2614|469",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:13:04.11",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "2614|469",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:13:04.59",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "2613|470",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:13:05.4",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "2613|470",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:13:05.20",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "2613|470",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:13:05.51",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "2613|470",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:13:05.76",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "374|1061",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:13:08.892",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human",
+		"Event Info": "|Microsoft Outlook|Launched",
+		"Timestamp": "2018-09-26 15:13:08.892",
+		"Event Type": "Application"
+	},
+	{
+		"Position": "1140|604",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:13:18.380",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human",
+		"Event Info": "|Microsoft Outlook|Closed",
+		"Timestamp": "2018-09-26 15:13:18.380",
+		"Event Type": "Application"
+	},
+	{
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human",
+		"Event Info": "|Inbox - jx.gao@pads.rwth-aachen.de - Outlook|Launched",
+		"Timestamp": "2018-09-26 15:13:18.380",
+		"Event Type": "Application"
+	},
+	{
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human",
+		"Event Info": "||Launched",
+		"Timestamp": "2018-09-26 15:13:18.380",
+		"Event Type": "Application"
+	},
+	{
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human",
+		"Event Info": "||Closed",
+		"Timestamp": "2018-09-26 15:13:18.380",
+		"Event Type": "Application"
+	},
+	{
+		"Position": "882|178",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:13:21.251",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Event Type": "Keyboard",
+		"Timestamp": "2018-09-26 15:13:23.847",
+		"Event Info": "ZXHYD0D2D0D2",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human",
+		"Event Info": "Return",
+		"Timestamp": "2018-09-26 15:13:24.28",
+		"Event Type": "Keyboard"
+	},
+	{
+		"Position": "1185|659",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:13:25.365",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "361|371",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:13:26.612",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "389|521",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:13:27.556",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "759|407",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:13:28.844",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "759|407",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:13:28.987",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human",
+		"Event Info": "||Launched",
+		"Timestamp": "2018-09-26 15:13:28.987",
+		"Event Type": "Application"
+	},
+	{
+		"Position": "1889|10",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:13:32.916",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human",
+		"Event Info": "||Closed",
+		"Timestamp": "2018-09-26 15:13:32.916",
+		"Event Type": "Application"
+	},
+	{
+		"Position": "696|371",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:13:34.884",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "696|371",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:13:35.27",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human",
+		"Event Info": "||Launched",
+		"Timestamp": "2018-09-26 15:13:35.27",
+		"Event Type": "Application"
+	},
+	{
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human",
+		"Event Info": "|Mozilla Firefox|Launched",
+		"Timestamp": "2018-09-26 15:13:35.27",
+		"Event Type": "Application"
+	},
+	{
+		"Position": "532|56",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:13:42.868",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "364|1058",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:13:44.108",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "883|454",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:13:44.700",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "951|366",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:13:45.324",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human",
+		"Event Info": "LeftCtrl",
+		"Timestamp": "2018-09-26 15:13:46.536",
+		"Event Type": "Keyboard"
+	},
+	{
+		"Event Type": "Keyboard",
+		"Timestamp": "2018-09-26 15:13:46.719",
+		"Event Info": "C",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human",
+		"Event Info": "https://svn.win.tue.nl/trac/prom/wiki/GettingStarted ",
+		"Timestamp": "2018-09-26 15:13:46.719",
+		"Event Type": "Clipboard"
+	},
+	{
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human",
+		"Event Info": "LeftAlt",
+		"Timestamp": "2018-09-26 15:13:47.119",
+		"Event Type": "Keyboard"
+	},
+	{
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human",
+		"Event Info": "Tab",
+		"Timestamp": "2018-09-26 15:13:47.216",
+		"Event Type": "Keyboard"
+	},
+	{
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human",
+		"Event Info": "LeftCtrl",
+		"Timestamp": "2018-09-26 15:13:48.46",
+		"Event Type": "Keyboard"
+	},
+	{
+		"Event Type": "Keyboard",
+		"Timestamp": "2018-09-26 15:13:48.134",
+		"Event Info": "V",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "960|454",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:13:49.540",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "912|617",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:13:49.908",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "906|633",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:13:49.924",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "901|646",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:13:49.946",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "901|647",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:13:49.947",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "901|648",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:13:49.956",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "901|648",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:13:49.972",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "901|648",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:13:49.996",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "172|741",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:14:03.804",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "11|52",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:14:07.980",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "769|719",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:14:22.524",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "769|719",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:14:22.548",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "769|719",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:14:22.564",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "769|719",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:14:22.588",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "768|719",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:14:22.612",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "768|719",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:14:22.636",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "768|719",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:14:22.684",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "1809|23",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:14:41.708",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "1802|6",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:14:42.908",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "1798|3",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:14:43.652",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "1041|551",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:14:44.301",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "1251|842",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:14:46.164",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "1125|927",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:14:49.316",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "3808|12",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:14:51.420",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human",
+		"Event Info": "|OneNote|Closed",
+		"Timestamp": "2018-09-26 15:14:51.420",
+		"Event Type": "Application"
+	},
+	{
+		"Position": "1398|674",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:14:52.572",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "1475|574",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:14:53.740",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "1077|1019",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:14:55.348",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "1137|780",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:14:56.644",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human",
+		"Event Info": "||Launched",
+		"Timestamp": "2018-09-26 15:14:56.644",
+		"Event Type": "Application"
+	},
+	{
+		"Position": "993|444",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:15:00.893",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "993|444",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:15:01.572",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "524|277",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:15:07.325",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "879|717",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:15:08.694",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "879|717",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:15:09.309",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "538|334",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:15:10.292",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "831|546",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:15:13.4",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "768|560",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:15:14.900",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "1601|89",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:15:18.61",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human",
+		"Event Info": "||Closed",
+		"Timestamp": "2018-09-26 15:15:18.61",
+		"Event Type": "Application"
+	},
+	{
+		"Position": "1056|838",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:15:19.884",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "1059|645",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:15:20.724",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "732|453",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:15:21.452",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "976|501",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:15:21.757",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "663|460",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:15:22.197",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "549|454",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:15:22.516",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "970|587",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:15:22.893",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "561|1079",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:15:23.877",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "383|1060",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:15:26.812",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "820|636",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:15:28.21",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "831|417",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:15:28.701",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "831|417",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:15:28.844",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "1901|6",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:15:31.460",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "928|559",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:15:32.373",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human",
+		"Event Info": "||Closed",
+		"Timestamp": "2018-09-26 15:15:32.373",
+		"Event Type": "Application"
+	},
+	{
+		"Position": "803|375",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:15:33.389",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "671|582",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:15:40.952",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "672|583",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:15:40.981",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "501|832",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:15:55.549",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "499|837",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:15:55.604",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "499|837",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:15:56.268",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "449|859",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:16:19.597",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "445|908",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:16:21.21",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "50|895",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:16:22.13",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "586|751",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:16:27.493",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "586|751",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:16:28.421",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "285|419",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:16:37.957",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "12|69",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:16:45.581",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "781|650",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:16:58.501",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "20|58",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:17:03.821",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "82|26",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:17:04.501",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "296|504",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:17:15.901",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "294|509",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:17:15.917",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "295|513",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:17:15.933",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "296|515",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:17:15.958",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "296|515",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:17:15.981",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "374|629",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:17:21.165",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "498|1075",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:17:29.53",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human",
+		"Event Info": "|OneNote|Launched",
+		"Timestamp": "2018-09-26 15:17:29.53",
+		"Event Type": "Application"
+	},
+	{
+		"Position": "2807|227",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:17:33.942",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "2601|401",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:17:35.421",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "2601|401",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:17:35.438",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "2601|401",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:17:35.452",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "2601|401",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:17:35.470",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "2601|401",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:17:35.477",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "2601|401",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:17:35.493",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "2601|401",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:17:35.518",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "2655|506",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:17:36.998",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "2655|506",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:17:37.13",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "2655|507",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:17:37.38",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "2655|507",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:17:37.53",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "2655|507",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:17:37.77",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "2655|507",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:17:37.109",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "2655|507",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:17:37.149",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "2655|507",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:17:37.390",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "2655|508",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:17:37.413",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "2655|509",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:17:37.422",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "2654|512",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:17:37.438",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "2654|512",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:17:37.445",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "2654|512",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:17:37.470",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "2654|512",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:17:37.501",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "2654|512",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:17:37.541",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "3711|217",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:17:40.125",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "2525|420",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:17:46.965",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "2525|420",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:17:47.133",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "703|552",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:17:49.662",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "700|555",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:17:49.677",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "700|555",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:17:49.693",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "700|555",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:17:49.702",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "700|555",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:17:49.718",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "700|555",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:17:49.733",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "700|555",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:17:49.750",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "699|555",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:17:49.781",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "698|553",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:17:50.517",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "698|553",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:17:50.558",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "698|553",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:17:50.581",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "698|553",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:17:50.613",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "698|553",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:17:51.573",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "698|553",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:17:51.597",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "698|553",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:17:51.621",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "698|553",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:17:51.638",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "698|553",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:17:51.662",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "698|553",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:17:51.693",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "698|553",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:17:51.782",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "698|553",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:17:52.117",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "698|553",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:17:52.133",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "698|553",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:17:52.157",
+		"Event Info": "WM_MOUSEWHEEL",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "0|1079",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:17:54.221",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "1917|1057",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:17:57.174",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "1916|1047",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:17:58.998",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "1179|797",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:17:59.629",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "20|143",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:18:00.566",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "20|143",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:18:00.718",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human",
+		"Event Info": "|things|Launched",
+		"Timestamp": "2018-09-26 15:18:00.718",
+		"Event Type": "Application"
+	},
+	{
+		"Position": "860|344",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:18:04.758",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "860|344",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:18:04.909",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human",
+		"Event Info": "|IntelliJ IDEA|Launched",
+		"Timestamp": "2018-09-26 15:18:04.909",
+		"Event Type": "Application"
+	},
+	{
+		"Position": "1240|669",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:18:40.494",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "621|1048",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:18:42.894",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "984|226",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:18:44.205",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "195|112",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:18:46.702",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "266|551",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:18:49.998",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "650|567",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:18:52.702",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "189|107",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:19:16.278",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "426|542",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:19:20.709",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "728|37",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:19:23.854",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "391|32",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:19:24.566",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "431|120",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:19:26.46",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "979|523",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:19:29.86",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "1480|513",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:19:50.198",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "563|1056",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:19:51.502",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Position": "287|319",
+		"Event Type": "Mouse",
+		"Timestamp": "2018-09-26 15:19:53.415",
+		"Event Info": "WM_LBUTTONDOWN",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	}
+]

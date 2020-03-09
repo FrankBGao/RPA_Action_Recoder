@@ -1,0 +1,32 @@
+C:\Users\gao\Desktop\RPA\recorder_C#\EventHook.WinForms.Example\bin\Release\EventHook.WinForms.Example.exe.config
+C:\Users\gao\Desktop\RPA\recorder_C#\EventHook.WinForms.Example\bin\Release\EventHook.WinForms.Example.exe.manifest
+C:\Users\gao\Desktop\RPA\recorder_C#\EventHook.WinForms.Example\bin\Release\EventHook.WinForms.Example.application
+C:\Users\gao\Desktop\RPA\recorder_C#\EventHook.WinForms.Example\bin\Release\EventHook.WinForms.Example.exe
+C:\Users\gao\Desktop\RPA\recorder_C#\EventHook.WinForms.Example\bin\Release\EventHook.WinForms.Example.pdb
+C:\Users\gao\Desktop\RPA\recorder_C#\EventHook.WinForms.Example\bin\Release\EventHook.dll
+C:\Users\gao\Desktop\RPA\recorder_C#\EventHook.WinForms.Example\obj\Release\Action_Recorder.csprojAssemblyReference.cache
+C:\Users\gao\Desktop\RPA\recorder_C#\EventHook.WinForms.Example\obj\Release\EventHook.WinForms.Example.MainForm.resources
+C:\Users\gao\Desktop\RPA\recorder_C#\EventHook.WinForms.Example\obj\Release\EventHook.WinForms.Example.Properties.Resources.resources
+C:\Users\gao\Desktop\RPA\recorder_C#\EventHook.WinForms.Example\obj\Release\Action_Recorder.csproj.GenerateResource.cache
+C:\Users\gao\Desktop\RPA\recorder_C#\EventHook.WinForms.Example\obj\Release\Action_Recorder.csproj.CoreCompileInputs.cache
+C:\Users\gao\Desktop\RPA\recorder_C#\EventHook.WinForms.Example\obj\Release\EventHook.WinForms.Example.exe.manifest
+C:\Users\gao\Desktop\RPA\recorder_C#\EventHook.WinForms.Example\obj\Release\EventHook.WinForms.Example.application
+C:\Users\gao\Desktop\RPA\recorder_C#\EventHook.WinForms.Example\obj\Release\Action_Recorder.csproj.CopyComplete
+C:\Users\gao\Desktop\RPA\recorder_C#\EventHook.WinForms.Example\obj\Release\EventHook.WinForms.Example.exe
+C:\Users\gao\Desktop\RPA\recorder_C#\EventHook.WinForms.Example\obj\Release\EventHook.WinForms.Example.pdb
+C:\Users\gao\Desktop\RPA\recorder_C#\Action Recorder\bin\Release\EventHook.dll
+C:\Users\gao\Desktop\RPA\recorder_C#\Action Recorder\obj\Release\EventHook.WinForms.Example.MainForm.resources
+C:\Users\gao\Desktop\RPA\recorder_C#\Action Recorder\obj\Release\Action_Recorder.csproj.GenerateResource.cache
+C:\Users\gao\Desktop\RPA\recorder_C#\Action Recorder\obj\Release\Action_Recorder.csproj.CoreCompileInputs.cache
+C:\Users\gao\Desktop\RPA\recorder_C#\Action Recorder\obj\Release\Action_Recorder.csproj.CopyComplete
+C:\Users\gao\Desktop\RPA\recorder_C#\Action Recorder\bin\Release\ActionRecorder.exe.config
+C:\Users\gao\Desktop\RPA\recorder_C#\Action Recorder\bin\Release\ActionRecorder.exe.manifest
+C:\Users\gao\Desktop\RPA\recorder_C#\Action Recorder\bin\Release\ActionRecorder.application
+C:\Users\gao\Desktop\RPA\recorder_C#\Action Recorder\bin\Release\ActionRecorder.exe
+C:\Users\gao\Desktop\RPA\recorder_C#\Action Recorder\bin\Release\ActionRecorder.pdb
+C:\Users\gao\Desktop\RPA\recorder_C#\Action Recorder\obj\Release\Action_Recorder.csprojAssemblyReference.cache
+C:\Users\gao\Desktop\RPA\recorder_C#\Action Recorder\obj\Release\ActionRecorder.Properties.Resources.resources
+C:\Users\gao\Desktop\RPA\recorder_C#\Action Recorder\obj\Release\ActionRecorder.exe.manifest
+C:\Users\gao\Desktop\RPA\recorder_C#\Action Recorder\obj\Release\ActionRecorder.application
+C:\Users\gao\Desktop\RPA\recorder_C#\Action Recorder\obj\Release\ActionRecorder.exe
+C:\Users\gao\Desktop\RPA\recorder_C#\Action Recorder\obj\Release\ActionRecorder.pdb

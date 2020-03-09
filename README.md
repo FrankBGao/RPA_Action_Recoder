@@ -11,6 +11,27 @@ This project is done by C#. This code is calling the win32 for collecting these 
 		"Event Info": "WM_LBUTTONDOWN",
 		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
 		"Resource": "Human"
+	},
+	{
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human",
+		"Event Info": "LeftCtrl",
+		"Timestamp": "2018-09-26 15:13:46.536",
+		"Event Type": "Keyboard"
+	},
+	{
+		"Event Type": "Keyboard",
+		"Timestamp": "2018-09-26 15:13:46.719",
+		"Event Info": "C",
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human"
+	},
+	{
+		"Job id": "b35f0a38-6f2e-4c6c-b528-4887ed778099",
+		"Resource": "Human",
+		"Event Info": "https://svn.win.tue.nl/trac/prom/wiki/GettingStarted ",
+		"Timestamp": "2018-09-26 15:13:46.719",
+		"Event Type": "Clipboard"
 	}
 ```
 
